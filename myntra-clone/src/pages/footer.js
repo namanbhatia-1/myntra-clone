@@ -46,7 +46,7 @@ function Footer() {
           <img className="w-36 cursor-pointer" src="./Google play store.png" alt="Google play store" />
           </a>
           <a href="https://apps.apple.com/in/app/myntra-fashion-shopping-app/id907394059"> 
-          <img className="w-32 cursor-pointer" src="./App store.png" alt="App store" />
+          <img className="w-32 cursor-pointer" src="./App Store.png" alt="App store" />
           </a>
           </div>
           
