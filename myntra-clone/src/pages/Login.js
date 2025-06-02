@@ -13,7 +13,7 @@ function Login() {
     }
 
     try {
-      const response = await fetch("https://myntra-clone-backend-pvtl.onrender.com", {
+      const response = await fetch("https://myntra-clone-backend-pvtl.onrender.com/api/login", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ mobile }),
