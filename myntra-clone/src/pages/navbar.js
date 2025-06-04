@@ -19,6 +19,9 @@ function Navbar() {
           <a href='https://myntra-clone-frontend-dtdi.onrender.com/' >
           <img className="w-20 m-2 cursor-pointer" src="./myntra-logo.png" alt="Logo" />
           </a>
+    <a href="https://myntra-clone-frontend-dtdi.onrender.com/">
+          <img className="w-20 m-2" src="./myntra-logo.png" alt="Logo" />
+    </a>
         </div>
         <div className="w-1/4 flex gap-7 justify-center items-center ml-28 font-Teko">
           <p className="text-xl font-medium cursor-pointer">MEN</p>
