@@ -32,7 +32,7 @@ function Login() {
       <div className="w-full h-screen flex justify-center items-center font-Teko bg-pink-50">
         <div className=" w-1/2 h-full flex justify-center items-center">
           <div className=" w-[60%] h-[80%] m-9 bg-white rounded-3xl">
-            <img className="rounded-t-3xl" src="./log.png" alt="log" />
+            <img className="rounded-t-3xl" src="./logo.png" alt="log" />
             <p className="flex ml-14 mt-10 text-2xl gap-2">
               <p>Login</p>
               <p className="opacity-60">or</p>
